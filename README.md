@@ -85,4 +85,4 @@ In this database there are two tables
 
 ### Data in tables
 
-![Movie](Images/4.png?raw=true "Movie")<hr>![Movie](Images/5.png?raw=true "Movie")
+![Movie](Images/4.png?)<hr>![Movie](Images/5.png?)
