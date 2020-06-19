@@ -15,7 +15,7 @@ class MTBS{
     static{
         try{
             Class.forName("com.mysql.jdbc.Driver");
-            con=DriverManager.getConnection("jdbc:mysql://localhost:3306/mtbs","root","Youaregood@1908");
+            con=DriverManager.getConnection("jdbc:mysql://localhost:3306/mtbs","root","************");
         }
         catch(Exception e){
             System.out.println("\n\n\n\n\t\t\t\t"+e.getMessage());
